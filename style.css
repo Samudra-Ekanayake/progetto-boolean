@@ -1,0 +1,103 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.opacitybox{
+    background-color: rgba(0, 0, 0, 0.57);
+    border-radius: 20px;
+    width: 950px;
+    height: 700px;
+    margin-bottom: 150px;
+}
+
+.logomove{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;  
+}
+
+
+.logo{ 
+    margin-top: 80px;
+    width: 190px;
+    height: 90px; 
+}
+
+.titolo{
+    color: greenyellow;
+    text-align: center;
+    margin: 10px;
+}
+
+button{
+    font-size: 10px;
+}
+
+.navbar{
+    background-color: greenyellow;
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-bottom: 20px;
+    height: 20px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+.menu{
+    padding-top: 0px;
+}
+
+#titolo2{
+
+    margin: 0;
+}
+
+.check1{
+    width: 300px;
+    display: flex;   
+}
+
+.descrizione2 {
+    margin: 0;
+}
+
+.stcarica1{
+    background-color: bisque;
+    width: 250px;
+    height: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.stcarica2{
+    background-color: greenyellow;
+    width: 450px;
+    height: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.stcarica3{
+    background-color: red;
+    width: 125px;
+    height: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.itemscontainer{
+    margin-left: 123px;
+    color: white;
+}
+
